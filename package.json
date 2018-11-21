@@ -40,8 +40,10 @@
     "url": "https://github.com/asciidoctor/asciidoctor-reveal.js/issues"
   },
   "homepage": "https://github.com/asciidoctor/asciidoctor-reveal.js",
+  "peerDependencies": {
+    "asciidoctor.js": "1.5.6"
+  },
   "dependencies": {
-    "asciidoctor.js": "1.5.6",
     "reveal.js": "3.6.0"
   },
   "devDependencies": {
