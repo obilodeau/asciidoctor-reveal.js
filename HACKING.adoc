@@ -246,6 +246,7 @@ Then proceed as documented in the `README.adoc`.
 
 === Upgrade Asciidoctor.js version
 
+// FIXME: this needs to change based on what we will decide
 WARNING: It is important to track `Asciidoctor.js` and `opal` versions together.
 The `opal` used to compile our node package must match `asciidoctor.js`'s `opal` requirement.
 The former is specified in our `package.json` and the latter in the `asciidoctor-revealjs.gemspec`.

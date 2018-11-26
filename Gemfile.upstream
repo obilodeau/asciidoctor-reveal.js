@@ -3,3 +3,5 @@
 source 'https://rubygems.org'
 gemspec
 gem 'asciidoctor', :git => 'https://github.com/asciidoctor/asciidoctor', :branch => 'master'
+# This needs to be kept in sync with latest opal
+gem 'opal', :git => 'https://github.com/opal/opal.git', :ref => '6703d8d'

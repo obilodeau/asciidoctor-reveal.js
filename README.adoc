@@ -135,7 +135,7 @@ Using npm:
 Create a directory to place slides. Initialize the directory to store npm packages within that directory. 
 
  $ echo {} > package.json               # eliminates warnings, use `npm init` if you prefer
- $ npm i --save asciidoctor.js@1.5.6
+ $ npm i --save asciidoctor.js
  $ npm i --save asciidoctor-reveal.js
 
 === Rendering the AsciiDoc into slides
