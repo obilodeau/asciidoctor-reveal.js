@@ -27,3 +27,7 @@ icon:stackpath[size=5x]
 == !
 
 icon:twitter[size=5x]
+
+== icon:thumbs-up[size=2x]
+
+It works in titles too!
